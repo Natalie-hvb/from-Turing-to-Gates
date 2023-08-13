@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 60%;
+    margin: auto;
+    background-color: #f3f3f3;
+}
+
+header{
+    height: 60px;
+    background:#acadbb;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin: 15px 0px;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    width: 100%;
+}
